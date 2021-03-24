@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: My school days
 - 📫 How to reach me: I'm too young currently to be reached through social media 
 - 😄 Pronouns:  He/him
-- ⚡ Fun fact: I'm just a kid who is seeking out this great technical world
+- ⚡ Fun fact: I'm just a kid of 11 years who is seeking out this great technical world

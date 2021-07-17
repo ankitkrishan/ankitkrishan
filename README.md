@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'm too young currently to be reached through social media 
 - 😄 Pronouns:  He/him
 - ⚡ Fun fact: I'm just a kid of 11 years who is seeking out this great technical world
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrishan&layout=compact&theme=radical" alt="ankitapuri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrishan&layout=compact&theme=radical" alt="ankitkrishan" /></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="ankitkrishan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkrishan&show_icons=true&theme=radical" alt="ankitkrishan" />
 
 
 <p align="center">
